@@ -74,7 +74,7 @@ dd if=/dev/mtd1 of=/tmp/Bootloader.bin  #仅备份Bootloader
 
 
 
-## 3.1WinSCP
+## 3WinSCP
 
 ​	双击打开一个站点，协议选择“FTP”；主机名`192.168.31.1`，用户名“root”，没有密码。
 
