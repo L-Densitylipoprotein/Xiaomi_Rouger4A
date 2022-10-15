@@ -187,7 +187,7 @@ ssh-keygen -R xxx.xxx.xxx  #该地址为之前使用ssh通信过的地址
 
 键入“yes”，随后输入密码“admin”
 
-<img src="C:/Users/86158/AppData/Roaming/Typora/typora-user-images/image-20221005010311422.png" alt="image-20221005010311422" style="zoom:50%;" />
+<img src="https://gitee.com/li-Density-Lipoprotein/li-lmage-bed/raw/master/image-login1015.png" alt="image-login1015" style="zoom:50%;" />
 
 见此说明与路由器通信成功。
 
